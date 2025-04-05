@@ -1,5 +1,5 @@
 # Codeforces Tool (in development)
-A tool for getting list of problems from [Codeforces][https://codeforces.com] then display it to CLI
+A tool for getting list of problems from [Codeforces](https://codeforces.com) then display it to CLI
 
 ## TODO
 [ ] get problems from Codeforces
